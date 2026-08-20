@@ -17,7 +17,7 @@ public class Swap{
         
     }
     static void ChangeName(String name) {
-        name = "Saurab yadav"; // creating a new object
+        name = "Suman Jha"; // creating a new object
         System.out.println(name);
     }
 
